@@ -11,7 +11,7 @@ public class AppHaha
     }
 
     public void play2() {
-        System.out.println("add method");
+        System.out.println("add method2");
     }
 
 }
